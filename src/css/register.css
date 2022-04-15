@@ -1,0 +1,10 @@
+.reg {
+  background: url("../images/Register1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+.reg-form {
+  background-color: #999090e3;
+}
